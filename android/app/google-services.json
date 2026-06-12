@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168775026699",
+    "project_id": "sheepmarket-d4165",
+    "storage_bucket": "sheepmarket-d4165.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168775026699:android:0929eb9dba6df62fc6df0e",
+        "android_client_info": {
+          "package_name": "com.onpoint.sheep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCew8lowNde-yk2vscydXCCOe5vRn-zg5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
